@@ -1,0 +1,12 @@
+{
+    "name": "My Repository",
+    "homepage": "http://159.65.193.98",
+    "output-dir": "public",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ecrmnn/laravel-one.git"
+        }
+    ],
+    "require-all": true
+}
