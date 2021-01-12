@@ -8,5 +8,9 @@
             "url": "https://github.com/ecrmnn/laravel-one.git"
         }
     ],
+    "archive": {
+        "directory": "dist",
+        "skip-dev": false
+    },
     "require-all": true
 }
