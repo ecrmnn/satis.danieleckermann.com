@@ -6,6 +6,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/ecrmnn/laravel-one.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ecrmnn/xo-test.git"
         }
     ],
     "archive": {
