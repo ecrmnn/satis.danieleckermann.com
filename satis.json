@@ -3,10 +3,6 @@
     "homepage": "https://satis.laravelrush.com",
     "output-dir": "public",
     "repositories": [
-        // {
-        //     "type": "vcs",
-        //     "url": "https://github.com/ecrmnn/laravel-one.git"
-        // },
         {
             "type": "vcs",
             "url": "https://github.com/ecrmnn/xo-test.git"
