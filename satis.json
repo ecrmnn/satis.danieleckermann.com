@@ -9,7 +9,7 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ecrmnn/laravel-one.git"
+            "url": "https://github.com/laravelrush/rush.git"
         }
     ],
     "archive": {
